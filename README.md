@@ -1,5 +1,24 @@
 # Machine Learning 
 
+# ML Assignment 2
+
+*Sumanth Reddy P*
+*2025AA05795*
+*[2025aa05795@wilp.bits-pilani.ac.in](mailto:2025aa05795@wilp.bits-pilani.ac.in)*
+
+
+# Links
+
+### Github
+
+Repo : [https://github.com/inviews/ml-assignment](https://github.com/inviews/ml-assignment)
+
+### Streamlit
+
+Streamlit : [https://ml-assignment-2025aa05795.streamlit.app/](https://ml-assignment-2025aa05795.streamlit.app/)
+
+
+
 # A - Problem Statement
 
 **Predict whether an online shopping session will result in a purchase (revenue generation).**
